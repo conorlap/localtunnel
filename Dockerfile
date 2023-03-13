@@ -1,4 +1,4 @@
-FROM --platform=linux/arm/v7 node:10-alpine
+FROM --platform=linux/arm/v7 node:18-alpine
 
 RUN npm install -g localtunnel
 
