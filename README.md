@@ -1,4 +1,4 @@
-# localtunnel
+# localtunnel for Raspberry Pi
 
 This is a minimal docker image for the [localtunnel](https://localtunnel.me/)
 client based on Alpine linux. `localtunnel` exposes your localhost to the world
